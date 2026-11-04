@@ -68,6 +68,15 @@
 
 <div align="center">
 
+### 📦 Всё сразу
+
+Не хотите собирать по частям — забирайте комплект: **три приложения + плейлист + заставка** одним архивом.
+
+[![SlimTV Suite](https://img.shields.io/badge/%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%82-SlimTV%20Suite-6ed6ff?style=for-the-badge)](https://github.com/mosloboev444-hue/slimtv-suite/releases/latest)
+
+</div>
+<div align="center">
+
 ### Стек
 
 ![Java](https://img.shields.io/badge/Java-17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
